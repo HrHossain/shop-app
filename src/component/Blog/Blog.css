@@ -1,0 +1,15 @@
+.BlogHeading h1{
+    margin-top: 30px;
+    text-align: center;
+}
+.BlogHeading p{
+    text-align: center;
+    margin-bottom: 30px;
+}
+.bloghover:hover{
+    transform: rotateY(3deg);
+}
+.BlogHeading h1 span{
+    font-size: 46px;
+    font-weight:700;
+}

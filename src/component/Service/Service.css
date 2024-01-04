@@ -1,0 +1,27 @@
+.iconImg{
+    height: 250px;
+    object-fit: cover;
+    transform: scale(.7);
+    transition: .7s;
+    
+}
+.card{
+    transition: .5s;
+}
+.card:hover{
+    transform: scale(.989);
+    transform:  translateX(1deg);
+    
+}
+.serviceHeading{
+    text-align: center;
+    width: 300px;
+    margin: 50px auto;
+}
+.serviceHeading h1 span{
+    font-weight: 700;
+    font-size: 35px;
+}
+.service{
+    transition: 1s;
+}

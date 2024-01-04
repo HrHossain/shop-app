@@ -1,0 +1,15 @@
+ .product-image{
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+}
+.heading-shop{
+    margin-top: 30px;
+}
+.heading-shop h1{
+    font-weight: 700;
+    font-size: 36px;
+}
+hr{
+    border-width: 2px;
+}

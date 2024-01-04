@@ -1,0 +1,70 @@
+.top-bar{
+    background-color: #4b4b4b;
+    width: 100%;
+    color: white;
+    padding: 5px;
+    box-sizing: border-box;
+}
+.info{
+    color: white;
+}
+.info ul{
+    margin: 0;
+}
+.info ul li{
+display:inline-block;
+margin-right: 5px;
+padding: 5px;
+
+}
+.social ul{
+    margin: 0;
+    text-align: right;
+}
+.social ul li{
+display:inline-block;
+margin-right: 10px;
+
+}
+.social ul li a{
+    color: white;
+    transition: background .7s;
+    padding: 5px;
+    display: block;
+}
+.social ul li a:hover{
+    background-color: #3d3d3d;
+    transform: scale(1.2);
+}
+.logoimg{
+    width: 100px;
+}
+.navber{
+    
+    text-align: right;
+    font-size: 1.6rem;
+    margin-top: 10px;
+    font-weight: bold;
+    padding: 20px 20px;
+}
+.navber ul{
+    margin: 0;
+}
+.navber ul li{
+display: inline-block;
+margin-right: 10px;
+}
+.navber ul li a{
+    text-decoration: none;
+    color:black;
+    padding: 5px 10px;
+    /* transition: .7s; */
+    text-transform: uppercase;
+    font-weight: bold;
+    text-shadow: 0,0,1,black;
+}
+.navber ul li a.active{
+    color: rgb(10, 4, 4);
+    border:2px solid black;
+   
+}

@@ -1,0 +1,12 @@
+.about-page{
+    margin: 50px auto;
+    background-color: rgba(0,0,0,0.1);
+    padding: 20px;
+}
+.about-img img{
+    width: 100%;
+}
+.about-text{
+    margin-top: 20px;
+    text-align: center;
+}
